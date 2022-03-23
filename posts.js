@@ -1,6 +1,6 @@
 let beolvas = async () => {
     try {
-        const result = await fetch('https://jsonplaceholder.typicode.com/postse');
+        const result = await fetch('https://jsonplaceholder.typicode.com/posts');
         const data = await result.json();
         return data;
     } catch (error) {
