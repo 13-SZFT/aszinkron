@@ -1,0 +1,3 @@
+Ez itt egy másik próbaállomány.
+Ez is egy tartalmas szövegállomány.
+Plusz még egy sor.

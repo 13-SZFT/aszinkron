@@ -4,7 +4,7 @@
   "description": "Ismerkedés az aszinkron műveletekkel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon async_await.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/13-SZFT/aszinkron/issues"
   },
-  "homepage": "https://github.com/13-SZFT/aszinkron#readme"
+  "homepage": "https://github.com/13-SZFT/aszinkron#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
